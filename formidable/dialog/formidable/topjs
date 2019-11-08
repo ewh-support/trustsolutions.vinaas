@@ -1,0 +1,10 @@
+var I18N_FF = {
+                        //'File size now allowed': 'File size not allowed',
+                        //'Invalid file extension.': 'Invalid file extension',
+                        //'Max files number reached': 'Max files number reached',
+                        //'Extension not allowed': 'Extension \"%s\" not allowed',
+                        'Choose State/Province': 'Choose State/Province',
+                        'Please wait...': 'Please wait...',
+                        //'Allowed extensions': 'Allowed extensions',
+                        //'Removing tag': 'Removing tag'
+                   }
